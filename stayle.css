@@ -1,0 +1,161 @@
+body{
+    margin: 0px;
+}
+.navber{
+    display: flex;
+    justify-content: right;
+    padding: 30PX;
+
+}
+.Gmail{
+    color: black;
+    font-size: 30px;
+    text-decoration: none;
+
+}
+.image{
+    color: black;
+    font-size: 30px;
+    margin-left: 50px;
+    text-decoration: none;
+
+}
+.chemistry{
+    height: 25px;
+    width: auto;
+    margin-left: 50px;
+    padding: 5px;
+
+}
+.icon{
+    height: 25px;
+    width: auto;
+    margin-left: 50px;
+    padding: 5px;
+
+}
+.Gmail:hover ,.image:hover {
+    text-decoration: underline;
+}
+.chemistry:hover , .icon:hover {
+    background-color: rgb(148, 142, 142);
+    border-radius: 50%;
+    
+}
+.banner{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   margin-top: 100px;
+
+
+}
+.bannericon{
+    height: auto;
+    width: auto;
+
+    
+}
+.surchber{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+ 
+
+ 
+}
+.search{
+    width: 700px;
+    height: 45px;
+    border-radius: 20px;
+    position: relative;
+    font-size: 20px;
+    
+}
+.search:hover {
+    box-shadow: 10px 10px 10px 1px  rgb(122, 121, 121);
+}
+.searchicons{
+    position: absolute;
+    margin-left: -32%;
+}
+.imagesec{
+    height: 30px;
+    width: auto;
+    margin-left: 10px;
+}
+.searchberi{
+    position: absolute;
+    margin-left: 28%;
+
+}
+.Googlbootm{
+    background-color: rgb(245, 244, 244);
+    color: black;
+    text-decoration: none;
+    font-size: 20px;
+    margin-left: 30px;
+    padding: 10px;
+    border-radius: 7px;
+    
+}
+.Googlbootmall{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+
+}
+.Googlbootm:hover {
+    border: 1px solid rgb(202, 202, 202);
+}
+.tect{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+
+
+}
+.text{
+    margin-left: 5px;
+    text-decoration: none;
+}
+.text:hover {
+    text-decoration: underline;
+}
+.cuntry{
+    background-color: rgb(241, 240, 240) ;
+    margin-top: 200px;
+    padding: 15px;
+    border-bottom: 1px solid rgb(173, 173, 173);
+
+}
+.india{
+    color: black;
+    text-decoration: none;
+    font-size: 20px;
+    margin-left: 20px;
+}
+.india:hover{
+    text-decoration: underline;
+}
+.abstline{
+   
+
+}
+.sattings{
+    background-color: rgb(241, 240, 240) ;
+    
+
+    padding: 15px;
+    display: flex;
+    justify-content: space-between;
+
+
+}
+.abstlinel{
+    
+
+}
